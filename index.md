@@ -1,3 +1,5 @@
+# Morgan Kim
+
 # CPSC120L Portfolio
 
 ## My Information
