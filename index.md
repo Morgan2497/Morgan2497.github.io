@@ -1,6 +1,6 @@
-### **Morgan Kim** :smile:
+# **Morgan Kim**
 
-# CPSC120L Portfolio
+## CPSC120L Portfolio
 
 ## My Information
 - Name: Morgan Kim
