@@ -1,4 +1,4 @@
-### **Morgan Kim** :joy:
+### **Morgan Kim** :smile:
 
 # CPSC120L Portfolio
 
